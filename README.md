@@ -1,5 +1,6 @@
 # text-humanizer
-<img width="1090" height="291" alt="image" src="https://github.com/user-attachments/assets/18b2fa4d-cb1e-48c4-82d2-8c888ae5076b" />
+<img width="1090" height="291" alt="image" src="https://github.com/user-attachments/assets/fdf5c218-b868-4d4f-824f-99632ec0af66" />
+
 
 
 
@@ -41,7 +42,7 @@ The resulting text is translated back into the original input language using the
 # Quick start(Windows/Linux/MacOS)
 
 ```bash
-git clone https://github.com/fromleda/text-humanizer.git
+git clone https://github.com/SpaceDudem/text-humanizer.git
 cd text-humanizer
 pip install -r requirements.txt
 
